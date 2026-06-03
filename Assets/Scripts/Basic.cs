@@ -1,3 +1,4 @@
+using System.Diagnostics;
 using UnityEngine;
 
 public class Basic : MonoBehaviour
@@ -6,7 +7,7 @@ public class Basic : MonoBehaviour
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        //hello duniya
+        Debug.Log("Hi this is a git session");
     }
 
     // Update is called once per frame
