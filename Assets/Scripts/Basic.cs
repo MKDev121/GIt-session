@@ -8,6 +8,9 @@ public class Basic : MonoBehaviour
     void Start()
     {
         Debug.Log("Hi this is a git session");
+        //hello world 
+        // meet you are a legend 
+        // hey guys
     }
 
     // Update is called once per frame
